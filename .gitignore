@@ -1,0 +1,5 @@
+# ignore all content from files directory
+files/
+
+# ignore all images
+*.jpg
